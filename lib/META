@@ -1,0 +1,13 @@
+# OASIS_START
+# DO NOT EDIT (digest: eaaf6fe0569662c889bf473b840d1846)
+version = "dev"
+description =
+"Translation between half-width and full-width latin characters"
+requires = "uchar"
+archive(byte) = "fullwidth.cma"
+archive(byte, plugin) = "fullwidth.cma"
+archive(native) = "fullwidth.cmxa"
+archive(native, plugin) = "fullwidth.cmxs"
+exists_if = "fullwidth.cma"
+# OASIS_STOP
+
