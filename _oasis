@@ -1,8 +1,8 @@
 OASISFormat: 0.4
-Name:        angstrom
+Name:        ocaml-fullwidth
 Version:     dev
-Authors:     Spiros Eliopoulos <spiros@inhabitedtype.com>, Mark Li
-Maintainers: Spiros Eliopoulos <spiros@inhabitedtype.com>, Mark Li
+Authors:     Spiros Eliopoulos <spiros@inhabitedtype.com>, Mark Li <obj@ipredator.me>
+Maintainers: Spiros Eliopoulos <spiros@inhabitedtype.com>, Mark Li <obj@ipredator.me>
 Homepage:    https://github.com/seliopou/ocaml-fullwidth
 License:     BSD-3-clause
 Plugins:     META (0.4), DevFiles (0.4)
